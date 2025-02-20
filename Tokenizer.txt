@@ -1,1 +1,2 @@
 Accept string input using scanner
+Parse string using array and iterative statement
